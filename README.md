@@ -50,7 +50,17 @@ margin-left: 20px;
 <body>
 
 <h2>
-<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="魚森map" width="1800"></span></a><br/> </SPAN></h2>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花１<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花２<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花3<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花4<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花5<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花6<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花7<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花8<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+<SPAN style="margin-left:20px "><a href="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" target="_blank" class="p">お花9<span><img src="0FABF9AA-3E32-4BD2-9B93-69F62AEE46BC.jpeg" alt="お花" width="800"></span></a><br/> </SPAN>
+
+</h2>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
